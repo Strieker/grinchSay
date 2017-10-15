@@ -1,4 +1,3 @@
-
 const textBox = document.getElementById('textBox');
 const repetitionBox = document.getElementById('repetitionBox');
 
@@ -11,5 +10,4 @@ function repeatedTextPopulator() {
   const repeatedText = (`${inputText} \n`).repeat(repetitionNumber);
   document.getElementById('result').innerHTML = repeatedText;
 }
-
 
