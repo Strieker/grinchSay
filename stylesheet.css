@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+
+body {
+  background-color: #FEFF1E;
+}
+
+h1, #result {
+  font-family: 'Bangers', cursive;
+}
+
+#textBox, #repetitionBox{
+  border: grey;
+  width: 30%;
+  height: 20%;
+  position: static;
+}
+
+#grinch {
+  margin-left: 1%;
+  width: 30%;
+  position: absolute;
+}
+
+#result {
+  margin-left: 29%;
+  margin-top: -10%;
+  margin-bottom: 20%;
+  position: absolute;
+}
