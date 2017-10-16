@@ -12,7 +12,7 @@ h1, #result {
 #textBox, #repetitionBox{
   border: grey;
   width: 30%;
-  height: 20%;
+  height: 5%;
   position: static;
 }
 
